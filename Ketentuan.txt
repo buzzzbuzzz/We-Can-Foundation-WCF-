@@ -1,0 +1,9 @@
+page ada:
+-register & login
+-tampilan home
+-tampilan khusus admin
+-tampilan transaksi
+-tampilan struk
+-tampilan tambah donasi
+
+berarti admin harus ad landing page tersendiri
